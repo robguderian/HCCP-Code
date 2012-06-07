@@ -1,0 +1,9 @@
+
+LEACH messages:
+CH-x - x is a clusterhead
+FL-x-y - x announces that it is going to follow y. Was FLx - sender is going to follow x. Will change back if I make the announcement have a return address in the header.
+
+The TDMA schedule is formed
+
+EachRuntime;id:delay;id2:delay2;....
+

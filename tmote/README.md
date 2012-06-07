@@ -1,0 +1,1 @@
+This code should work on most contiki devices, though tweaks may need to be made to have the radio work properly.
